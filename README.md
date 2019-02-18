@@ -2,7 +2,7 @@
 
 DOJO for beginners on [Angular](https://angular.io/) development.
 
-To get more information, go to [dev.azure.com/devprofr/knowledge-base](https://dev.azure.com/devprofr/knowledge-base/_wiki/wikis/knowledge-base.wiki?wikiVersion=GBwikiMaster&pagePath=%2FDevelopment%2FAngular&pageId=157).
+To get more information, go to [dev.azure.com/devprofr/knowledge-base](https://dev.azure.com/devprofr/knowledge-base/_wiki/wikis/knowledge-base.wiki?wikiVersion=GBwikiMaster&pagePath=%2FDevelopment%2FJavaScript%2FAngular&pageId=157).
 
 ## Requirements
 
@@ -29,4 +29,5 @@ We'll start with the official [quickstart](https://angular.io/guide/quickstart).
 
 ## Goodies
 
+- CLI
 - lint
