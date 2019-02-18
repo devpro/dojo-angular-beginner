@@ -16,6 +16,7 @@ To get more information, go to [dev.azure.com/devprofr/knowledge-base](https://d
 
 - SPA (Single Page Application)
 - RAD (Rapid Application Development)
+- TypeScript
 
 ## Exercises
 
