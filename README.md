@@ -39,3 +39,4 @@ We'll start with the official [quickstart](https://angular.io/guide/quickstart).
 - [dev.azure.com/devprofr/knowledge-base](https://dev.azure.com/devprofr/knowledge-base/_wiki/wikis/knowledge-base.wiki?wikiVersion=GBwikiMaster&pagePath=%2FDevelopment%2FJavaScript%2FAngular&pageId=157)
 - [github.com/cexbrayat/angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff)
 - [Create an Angular 7 / ASP.NET Core 2.2 application and push it to Azure](https://blog-bertrand-thomas.devpro.fr/2019/02/03/create-angular-asp-net-core-application-push-azure/)
+- [stackblitz](https://stackblitz.com/angular/lkvbkaxbqvo)
