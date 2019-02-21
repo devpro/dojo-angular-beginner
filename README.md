@@ -7,10 +7,13 @@ To get more information, go to [dev.azure.com/devprofr/knowledge-base](https://d
 ## Requirements
 
 - Install npm from [Node.js website](https://nodejs.org/en/)
-- Make sure you are running on the latest version of NPM: `npm install npm@latest -g`
-- You can review your version: `npm -v`
-- Install Angular client: `npm install -g @angular/cli`
-- Install TypeScript: `npm install -g typescript`
+- Make sure you are running on the latest version of NPM: `npm install -g npm@latest`
+  - You can review your version: `npm -v`
+- Install Angular client: `npm install -g @angular/cli@latest`
+  - You can review your version: `ng version`
+- (Optional) Install TypeScript: `npm install -g typescript@3.2.4`
+  - You can review your version: `tsc -v`
+- (Optional) You can cache the dependencies by launching a basic Angular application creation: `ng new my-dream-app` (you can use the options by default)
 
 ## Motivation
 
